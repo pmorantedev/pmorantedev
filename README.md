@@ -8,6 +8,7 @@ I've been learning to code for almost 2 years now, currently studying a Higher D
 
 *   🌍  I'm based in Barcelona
 *   ✉️  You can contact me at [pablomaresme@hotmail.com](mailto:pablomaresme@hotmail.com)
+*   🔭 I’m currently working as a Software Developer for [MGA Games](https://www.mga.es/en/mga-games/)
 *   🧠  I'm learning currently to code automated bots
 *   ⚡  Also, a professional WoW raider, but don't tell anyone
 
