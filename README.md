@@ -73,8 +73,12 @@
 <br/>  
   
   ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PMoranteGarcia&theme=transparent&hide_border=true&layout=compact" align="center" /></div>  
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PMoranteGarcia&theme=transparent&layout=compact)](https://github.com/PMoranteGarcia/github-readme-stats)
+
   
+
+
 <br/>  
 
   
