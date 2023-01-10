@@ -73,9 +73,8 @@
 <br/>  
   
   ## Github Stats  
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PMoranteGarcia&theme=transparent&layout=compact)](https://github.com/PMoranteGarcia/github-readme-stats)
-
+  
+  <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PMoranteGarcia&theme=transparent&layout=compact" align="center" /></div>
   
 
 
