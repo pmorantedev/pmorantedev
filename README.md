@@ -1,5 +1,6 @@
 ### <div align="center">I'm Pablo, an App Developer and full-stack</div>  
   
+  I've been learning to code for a long time, currently studying a Higher Degree in Multiplatform App Development. Right now i'm focused in Java and Kotlin, but with my focus in full-stack developing I know a well-varied list of languages and developing platforms.
 
 - 🌍 Based in Barcelona  
   
@@ -7,7 +8,7 @@
 - 🔭 I’m currently working as a Software Engineer ar [MGA GAMES](https://mga.games/)  
   
 
-- ❓ Ask me about anything related to my job or my studies (Higher Degree in Multiplatform App Development)  
+- ❓ Ask me about anything related to my job or my studies
   
 
 - ⚡ Also, a professional WoW raider, but don't tell anyone  
