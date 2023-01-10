@@ -5,7 +5,7 @@
 - 🌍 Based in Barcelona  
   
 
-- 🔭 I’m currently working as a Software Engineer ar [MGA GAMES](https://mga.games/)  
+- 🔭 I’m currently working as a Software Engineer at [MGA GAMES](https://mga.games/)  
   
 
 - ❓ Ask me about anything related to my job or my studies
@@ -75,7 +75,7 @@
 <br/>  
   
   ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PMoranteGarcia&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PMoranteGarcia&theme=transparent&hide_border=true&layout=compact" align="center" /></div>  
   
 <br/>  
 
