@@ -1,4 +1,4 @@
-### <div align="center">I'm Pablo, a full-stack App Developer</div>  
+### <div align="center">I'm Pablo, a multiplatform app Developer</div>  
   
   I've been learning to code for a long time, currently studying a Higher Degree in Multiplatform App Development. Right now i'm focused in Java and Kotlin, but with my focus in full-stack developing I know a well-varied list of languages and developing platforms.
 
