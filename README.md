@@ -5,7 +5,7 @@
 - 🌍 Based in Barcelona  
   
 
-- 🔭 I’m currently working as a Software Engineer intern at [MGA GAMES](https://mga.games/)  
+- 🔭 I’m currently working as a .NET Developer
   
 
 - ❓ Ask me about anything related to my job or my studies
