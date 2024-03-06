@@ -5,7 +5,7 @@
 - 🌍 Based in Barcelona  
   
 
-- 🔭 I’m currently working as a .NET Developer
+- 🔭 I’m currently working as a DevOps at Vueling Airlines.
   
 
 - ❓ Ask me about anything related to my job or my studies
