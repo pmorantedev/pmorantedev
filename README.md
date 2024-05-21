@@ -11,7 +11,7 @@
 - ❓ Ask me about anything related to my job or my studies
   
 
-- ⚡ Also, a professional WoW raider, but don't tell anyone  
+- ⚡ Also, a big RPG gamer
   
 
 <br/>  
