@@ -1,6 +1,6 @@
 ### <div align="center">I'm Pablo, a multiplatform app Developer</div>  
   
-  I've been learning to code for a long time, currently studying a Higher Degree in Multiplatform App Development. Right now i'm focused in Java and Kotlin, but with my focus in full-stack developing I know a well-varied list of languages and developing platforms. Learn more about me on my web page <a href="https://www.pmorante.dev" target="_blank">pmorante.dev</a>
+  I've been learning to code for a long time, I studied a Higher Degree in Multiplatform App Development. I started programming with Java and Kotlin, but my professional career has been programming in C#. Right now i'm focused in full-stack programming and working as a DevOps. Learn more about me on my web page <a href="https://www.pmorante.dev" target="_blank">pmorante.dev</a>
 
 - 🌍 Based in Barcelona  
   
